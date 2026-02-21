@@ -33,9 +33,9 @@ export default function Dashboard() {
         whileInView={{ opacity: 1, y: 0 }}
         viewport={{ once: true, margin: "-80px" }}
         transition={{ duration: 0.7, ease: "easeOut" }}
-        className="overflow-hidden rounded-2xl border border-slate-800/90 bg-slate-950/80 shadow-xl shadow-slate-950/80"
+        className="overflow-x-auto overflow-y-hidden rounded-2xl border border-slate-800/90 bg-slate-950/80 shadow-xl shadow-slate-950/80"
       >
-        <div className="flex">
+        <div className="flex md:min-h-[520px] min-w-[880px]">
           {/* Sidebar */}
           <aside className="flex w-48 flex-col border-r border-slate-800/80 bg-slate-950/90">
             <div className="px-4 py-3">
