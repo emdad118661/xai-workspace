@@ -13,7 +13,7 @@ This was built as part of a frontend coding challenge to demonstrate:
 
 ## 1. Live Demo & Design
 
-- **Live demo:** https://YOUR-VERCEL-URL.vercel.app  
+- **Live demo:** https://xai-workspace.vercel.app/  
 - **Figma (lightweight structure):** https://www.figma.com/file/XXXXXXXX  
 - **Product documentation (PDF):** attached with the submission / [Google Drive link]
 
