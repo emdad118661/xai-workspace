@@ -14,7 +14,7 @@ This was built as part of a frontend coding challenge to demonstrate:
 ## 1. Live Demo & Design
 
 - **Live demo:** https://xai-workspace.vercel.app/  
-- **Figma (lightweight structure):** https://www.figma.com/file/XXXXXXXX  
+- **Figma (lightweight structure):** https://www.figma.com/design/7werKCmY9DNLFw1GsM9QWx/Xai-%E2%80%93-Intelligence-Workspace?node-id=0-1&t=dUX1PzfXnf9gfshG-1  
 - **Product documentation (PDF):** https://drive.google.com/file/d/1VlijtIOn3mwaHexCsb8JuaP0BFs-_6NA/view?usp=sharing
 
 > Note: I’m primarily a frontend engineer. The Figma file is a lightweight structural representation of the interface; most of my effort went into the live interactive prototype, motion, and code quality.
