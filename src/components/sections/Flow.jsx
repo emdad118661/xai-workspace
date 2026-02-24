@@ -60,7 +60,7 @@ export default function Flow() {
               className="group relative flex flex-col justify-between rounded-2xl border border-slate-800/80 bg-slate-900/70 p-4 text-sm"
             >
               <div>
-                <span className="inline-flex items-center rounded-full border border-cyan-500/40 bg-cyan-500/10 px-2 py-0.5 text-[10px] font-medium uppercase tracking-wide text-cyan-200">
+                <span className="inline-flex items-center rounded-full border border-cyan-500/40 bg-cyan-500/10 px-2 py-0.5 text-[10px] font-medium uppercase text-cyan-200">
                   {stage.badge}
                 </span>
                 <h3 className="mt-2 text-sm font-semibold text-slate-50">

@@ -90,7 +90,7 @@ export default function Signature() {
         </h2>
         <p className="mt-3 text-sm text-slate-400 sm:text-[15px]">
           Each node represents a decision: triggers, models, and actions. As you move, the
-          automation spine responds — showing how Xai executes end‑to‑end without losing context.
+          automation spine responds — showing how Xai executes end-to-end without losing context.
         </p>
         <p className="mt-4 text-xs text-slate-500">
           Scroll to rotate the graph. In the real product, each node would expand into editable
