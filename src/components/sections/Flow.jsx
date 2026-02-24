@@ -35,7 +35,7 @@ export default function Flow() {
           <p className="text-xs font-medium uppercase tracking-[0.25em] text-cyan-300/80">
             Data → Intelligence → Insight
           </p>
-          <h2 className="mt-3 text-2xl font-semibold tracking-tight text-slate-50 sm:text-3xl">
+          <h2 className="mt-3 text-2xl font-semibold text-slate-50 sm:text-3xl">
             Watch the signal emerge from the noise.
           </h2>
           <p className="mt-3 text-sm text-slate-400 sm:text-[15px]">
