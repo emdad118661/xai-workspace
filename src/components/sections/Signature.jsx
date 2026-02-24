@@ -18,6 +18,8 @@ function AutomationFlow() {
   const groupRef = useRef();
 
   useEffect(() => {
+    console.log("GSAP:", gsap);
+    console.log("ScrollTrigger:", ScrollTrigger);
     if (!groupRef.current) return;
 
     const ctx = gsap.context(() => {
@@ -39,6 +41,7 @@ function AutomationFlow() {
         end: "bottom bottom",
         scrub: true,
         onUpdate: (self) => {
+          console.log("scroll progress:", self.progress);
           const p = self.progress;
           groupRef.current.rotation.y = p * Math.PI * 1.5;
         },

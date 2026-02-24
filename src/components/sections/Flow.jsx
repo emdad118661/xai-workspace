@@ -29,7 +29,7 @@ const stages = [
 export default function Flow() {
   return (
     <section className="relative mt-10 scroll-mt-24 border-y border-slate-800/80 py-16">
-      <div className="pointer-events-none absolute inset-0 bg-gradient-to-b from-transparent via-slate-950/80 to-slate-950" />
+    {/* <div className="pointer-events-none absolute inset-0 bg-gradient-to-b from-transparent via-slate-950/80 to-slate-950" /> */}
       <div className="relative mx-auto max-w-5xl px-4">
         <div className="mb-10 max-w-xl">
           <p className="text-xs font-medium uppercase tracking-[0.25em] text-cyan-300/80">
