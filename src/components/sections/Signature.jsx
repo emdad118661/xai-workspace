@@ -79,7 +79,7 @@ export default function Signature() {
   return (
     <section
       id="signature"
-      className="mt-20 flex flex-col items-center justify-between gap-10 pb-10 pt-6 md:flex-row"
+      className="mt-20 flex flex-col items-center justify-between gap-10 pb-20 pt-6 md:flex-row"
     >
       <div className="max-w-md">
         <p className="text-xs font-medium uppercase tracking-[0.25em] text-cyan-300/80">
